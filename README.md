@@ -1,5 +1,5 @@
-# cs310TeamProject
 # Jacksonville State University
+  cs310TeamProject
 
 # Project Details
 
